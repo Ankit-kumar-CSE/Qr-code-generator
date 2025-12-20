@@ -46,7 +46,7 @@ Before running the script, ensure you have the qrcode library and Pillow (for im
 
 
 
-&nbsp;	
+ 
 
 #### 📂 Project Structure
 
@@ -76,7 +76,7 @@ Note: Remember to update the file\_path variable in the script to a directory th
 
  	Bash:-
 
- 	git clone https://github.com/your-username/qr-code-generator.git
+ 	git clone https://github.com/Ankit-kumar-CSE/qr-code-generator.git
 
 2\. Run the script:
 
@@ -89,6 +89,4 @@ Note: Remember to update the file\_path variable in the script to a directory th
 
 
 4\. Check your folder: Your QR code will be saved as qrcode.png.
-
-
 
